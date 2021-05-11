@@ -35,6 +35,4 @@ Change the directory to the downloaded files. (Downloads/qwack)
 Playing Qwack involves using your mouse for menu options and moving the duck sprite around with the arrow keys. More Control instructions can be found in the Controls section of the main menu and in the dialogue throughout the game. 
 
 ## Credits
-Main Game Developer - Rishi Challa
-Quantum Computing Developer - Madeline Farina
-Duck Sprite Designer - Adam Van Belkum
+The Lead Game Developer was Rishi Challa, the Quantum Computing Developer was Madeline Farina, and the Duck Sprite Designer was Adam Van Belkum
